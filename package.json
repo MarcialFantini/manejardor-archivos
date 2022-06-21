@@ -1,0 +1,18 @@
+{
+  "name": "manejardor-archivos",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "files": "^2.1.1",
+    "nodemon": "^2.0.16",
+    "pkg": "^5.7.0"
+  }
+}
